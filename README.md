@@ -73,10 +73,10 @@ A tool for dynamic and static analysis of suspicious files, detecting malicious 
 
 
 ## 👮️ How to Reach Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/zeyad-alm-elden-a48194217/)
-- **TryHackMe**: [Your TryHackMe Profile](https://tryhackme.com/p/zeyadibrahemalmelden)
-- **Hack The Box**: [Your HTB Profile](https://app.hackthebox.com/users/1522758)
 - **Email**:zeyadibrahemalmelden@gmail.com
+- **[LinkedIn Profile](https://www.linkedin.com/in/zeyad-alm-elden-a48194217/)**
+- **[TryHackMe Profile](https://tryhackme.com/p/zeyadibrahemalmelden)**
+- **[HTB Profile](https://app.hackthebox.com/users/1522758)**
 
 
 ---
