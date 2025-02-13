@@ -71,13 +71,6 @@ A tool for dynamic and static analysis of suspicious files, detecting malicious 
 
 ---
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
-
----
 
 ## 👮️ How to Reach Me
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/zeyad-alm-elden-a48194217/)
