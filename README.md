@@ -1,21 +1,22 @@
-# Hi there, I'm Zeyad Alm El-Den! 👋
+# Hi there, I'm Zeyad Am Elden! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a strong interest in **network security**, **ethical hacking**, and **penetration testing**. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a strong interest in **ethical hacking**, **penetration testing**, and **network security**. Here's a bit more about me:
 
 ---
 
 ## 🚀 About Me
-- **🔦 Focus Areas**: Ethical Hacking, Network Security, Malware Analysis, Digital Forensics, Penetration Testing, Android Security, Active Directory Security, and Privilege Escalation.
-- **💡 Projects**: 
-  - Web Application Penetration Testing Framework.
-  - Automated Malware Analysis Tool.
-  - Web Scraping for OSINT & Cybersecurity Research.
-  - Facial Expressions Recognition Web Application to Evaluate Students' Understanding using Deep Learning.
+- **🔦 Focus Areas**: Ethical Hacking, Network Security, Penetration Testing (Web, API, infrastructure, and Mobile Security), Active Directory Security, Privilege Escalation, and OSINT.
+- **💡 Projects**:
+  - Web Penetration Testing Methodology.
+  - Automated Tool.
+  - CTF Methodology
+  - OSINT Web Scraping for Cybersecurity Research.
+  - Facial Expressions Recognition Web Application to Evaluate Students' Understanding.
 
 - **📚 Currently Studying**: 
   - Reverse Engineering Techniques.
   - Advanced Threat Hunting Strategies.
-  - Cloud Security Best Practices.
+  - infrastructure Best Practices.
   - Privilege Escalation Techniques.
   - 🌟**Know more about my experience:** **[MY CV](https://drive.google.com/file/d/1zoVm-R7x6Uh-uXV1EFt8SLsSOlYmDvaP/view)**
 
@@ -26,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a
 ### Programming & Scripting Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Cybersecurity Tools & Frameworks
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white)
